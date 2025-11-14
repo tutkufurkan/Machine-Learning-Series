@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/tutkufurkan/Machine-Learning-Series/blob/main/banner.png" alt="ML Educational Series" width="800"/>
+</p>
+
 # 🎓 Machine Learning Educational Series
 
 Comprehensive machine learning educational series - Turkish content with practical applications
