@@ -41,6 +41,7 @@ Comprehensive machine learning educational series - Turkish content with practic
 - NumPy
 - Matplotlib
 - Seaborn
+- NLTK (Natural Language Processing)
 
 ## 📊 Kaggle Profile
 
