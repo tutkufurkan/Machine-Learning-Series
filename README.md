@@ -4,7 +4,7 @@
 
 # 🎓 Machine Learning Educational Series
 
-Comprehensive machine learning educational series - Turkish content with practical applications
+Comprehensive machine learning educational series
 
 ## 📚 Topic Modules
 
