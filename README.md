@@ -33,6 +33,9 @@ Comprehensive machine learning educational series
 - Model Optimization
 - **[Kaggle Notebook](https://www.kaggle.com/code/dandrandandran2093/machine-learning-advanced-topics)**
 
+### 5️⃣ [Kaggle Competition Projects](https://github.com/tutkufurkan/Kaggle-Competitions)
+- Titanic Survival Prediction - **[Kaggle Notebook](https://www.kaggle.com/code/dandrandandran2093/the-titanic-project)**
+
 ## 🛠️ Technologies
 
 - Python
